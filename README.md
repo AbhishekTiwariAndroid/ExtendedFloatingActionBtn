@@ -1,6 +1,11 @@
 # ExtendedFloatingActionBtn
 
 
+***You can Install and test latest ExtendedFloatingActionBtn App from below 👇***
+
+[![ExtendedFloatingActionBtn App](https://img.shields.io/badge/ExtendedFloatingActionBtn💰-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/AbhishekTiwariAndroid/ExtendedFloatingActionBtn/blob/master/app-debug.apk)
+
+
 
 
 
